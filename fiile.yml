@@ -1,0 +1,7 @@
+---
+- hosts: all
+  become: true
+
+  tasks:
+    - name: Create file
+      command: touch /home/student/ansible-tower-deploy
