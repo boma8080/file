@@ -4,4 +4,4 @@
 
   tasks:
     - name: Create file
-      command: touch /home/student/ansible-tower-tasks
+      command: touch /home/student/ansible-tower-projects
