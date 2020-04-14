@@ -4,4 +4,4 @@
 
   tasks:
     - name: Create file
-      command: touch /home/bomsy2real/github-webhook9
+      command: touch /home/bomsy2real/github-webhook7
