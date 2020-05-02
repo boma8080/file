@@ -4,4 +4,4 @@
 
   tasks:
     - name: Create file
-      command: touch /home/bomsy2real/GCP-file
+      command: touch /home/bomsy2real/GCP-folder
