@@ -4,4 +4,4 @@
 
   tasks:
     - name: Create file
-      command: touch /home/bomsy2real/Pull from GitHub
+      command: touch /home/student/Pull from GitHub1
